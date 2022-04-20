@@ -1,0 +1,16 @@
+
+*{
+    border: 1px solid black;
+    /* Reset */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    color: blue;
+    border: 1px solid black;
+}
+p{
+    padding: 10px 0;
+}
